@@ -1,0 +1,14 @@
+{
+  "name": "La Ripresa · Vignoble Etna",
+  "short_name": "La Ripresa",
+  "description": "Gestion phytosanitaire biologique — Etna DOC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0b08",
+  "theme_color": "#EDE8DE",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
