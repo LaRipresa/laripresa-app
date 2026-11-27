@@ -1,0 +1,9 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { height: -webkit-fill-available; }
+body { background: #F4F0E8; min-height: 100vh; min-height: -webkit-fill-available; overscroll-behavior-y: none; -webkit-tap-highlight-color: transparent; }
+* { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+input, select, textarea { font-size: 16px; font-family: inherit; }
+button { font-family: inherit; touch-action: manipulation; cursor: pointer; }
+::-webkit-scrollbar { width: 3px; height: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #D8D0C0; border-radius: 2px; }
